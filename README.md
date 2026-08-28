@@ -8,9 +8,7 @@
 
 <!-- -->
 
-Backend engineer yang fokus bangun API cepat, andal, dan minim overhead.
-Go buat performa, Python buat otomasi, PHP buat web lama yang masih hidup.
-Percaya kode bagus itu singkat, jelas, dan teruji — bukan pinter-pinter.
+Backend engineer. Go, Python, PHP. I build small services that stay quiet under load.
 
 ## [![stack](https://img.shields.io/badge/-STACK-FF8C00?style=for-the-badge&labelColor=000000)](https://github.com/irohaxx-zz)
 
@@ -24,8 +22,6 @@ Percaya kode bagus itu singkat, jelas, dan teruji — bukan pinter-pinter.
 
 [![Streak](https://streak-stats.demolab.com?user=irohaxx-zz&theme=dark&hide_border=true&background=0A0A0A&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&currStreakNum=F5F5F5&sideLabels=F5F5F5&sideNums=F5F5F5&dates=4A2C2A)](https://github.com/irohaxx-zz)
 
-> "God's temple is in heaven. He built it himself."
->
-> — Terry A. Davis
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/irohaxx-zz)
 
 [![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,45:4A2C2A,100:000000&height=120&section=footer&text=&fontSize=0)](https://github.com/irohaxx-zz)
